@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ivana Shinta Aldiza
-- 👀 I’m interested in Computer Science, Running
+- 👋 Hi, I’m Ivana Shinta Aldiza, I'm from Indonesia
+- 👀 I’m interested in Computer Science and Running
 - 🌱 I’m currently learning Computer Science
 - 📫 you can reach me via Email address ivanashinta41@gmail.com
 
